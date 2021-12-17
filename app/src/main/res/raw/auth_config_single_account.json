@@ -1,0 +1,13 @@
+{
+  "client_id" : "f889c1b2-228c-401e-b1a4-13c14846edb9",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "next://authcallback",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/common"
+    }
+  ]
+}
